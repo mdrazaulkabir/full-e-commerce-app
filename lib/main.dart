@@ -8,7 +8,7 @@ import 'package:flutter/material.dart';
 
 import 'firebase_options.dart';
 
-
+//localization ->add in materialApp
 //crash lytic   ->added before runApp
 //analytic      ->added in materialApp
 Future<void> main() async {
